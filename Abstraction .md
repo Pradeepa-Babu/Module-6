@@ -57,3 +57,5 @@ print("Circle Area:", circle.calculate_area())
 <img width="1442" height="705" alt="image" src="https://github.com/user-attachments/assets/63e41fe8-3898-48a8-8cc3-c2a40fe60052" />
 
 ## Result
+
+Thus To create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle. Hence the code has been executed successfully.
